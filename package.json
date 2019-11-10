@@ -1,6 +1,6 @@
 {
   "name": "slack-hook-notifier",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "slack notifier package. It use the slack http hooks for sending notifications to chats in slack.",
   "main": "index.js",
   "scripts": {
