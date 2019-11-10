@@ -1,0 +1,29 @@
+{
+  "name": "slack-hook-notifier",
+  "version": "1.0.0",
+  "description": "slack notifier package. It use the slack http hooks for sending notifications to chats in slack.",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha server/**/*.test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mtaweela/slack-notifier.git"
+  },
+  "keywords": [
+    "slack",
+    "notification",
+    "http",
+    "hook",
+    "hooks"
+  ],
+  "author": "Mohamed Taweela",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mtaweela/slack-notifier/issues"
+  },
+  "homepage": "https://github.com/mtaweela/slack-notifier#readme",
+  "dependencies": {
+    "axios": "^0.19.0"
+  }
+}
