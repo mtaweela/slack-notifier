@@ -36,6 +36,4 @@ var notify_slack = function (text, status) {
         });
 }
 
-module.exports = {
-    notify_slack
-}
+module.exports = notify_slack
